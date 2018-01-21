@@ -1,0 +1,515 @@
+{
+    "channels": [{
+            "issue-id": "130325",
+            "name": "БНТ 1",
+            "tvg-id": "BNT1",
+            "tvg-name": "BNT1",
+            "group": "Политематични",
+            "logo": "http://logos.kodibg.org/bnt1.png"
+        },
+        {
+            "issue-id": "217863",
+            "name": "БНТ HD",
+            "tvg-id": "BNTHD",
+            "tvg-name": "BNTHD",
+            "group": "Политематични",
+            "logo": "http://logos.kodibg.org/bnthd.png"
+        },
+        {
+            "issue-id": "131713",
+            "name": "БНТ 2",
+            "tvg-id": "BNT2",
+            "tvg-name": "BNT2",
+            "group": "Политематични",
+            "logo": "http://logos.kodibg.org/bnt2.png"
+        },
+        {
+            "issue-id": "130323",
+            "name": "БНТ Свят",
+            "tvg-id": "BNTWorld",
+            "tvg-name": "BNTWorld",
+            "group": "Политематични",
+            "logo": "http://logos.kodibg.org/bntworld.png"
+        },
+        {
+            "issue-id": "130339",
+            "name": "Нова ТВ",
+            "tvg-id": "Nova",
+            "tvg-name": "Nova",
+            "group": "Политематични",
+            "logo": "http://logos.kodibg.org/novatv.png"
+        },
+        {
+            "issue-id": "130349",
+            "name": "Нова Спорт",
+            "tvg-id": "NovaSport",
+            "tvg-name": "NovaSport",
+            "group": "Спортни",
+            "logo": "http://logos.kodibg.org/novasport.png"
+        },
+        {
+            "issue-id": "130347",
+            "name": "Кино Нова",
+            "tvg-id": "KinoNova",
+            "tvg-name": "KinoNova",
+            "group": "Филмови",
+            "logo": "http://logos.kodibg.org/kinonova.png"
+        },
+        {
+            "issue-id": "130341",
+            "name": "Диема",
+            "tvg-id": "Diema",
+            "tvg-name": "Diema",
+            "group": "Филмови",
+            "logo": "http://logos.kodibg.org/diema.png"
+        },
+        {
+            "issue-id": "130345",
+            "name": "Диема Family",
+            "tvg-id": "DiemaFamily",
+            "tvg-name": "DiemaFamily",
+            "group": "Филмови",
+            "logo": "http://logos.kodibg.org/diemafamily.png"
+        },
+        {
+            "issue-id": "130139",
+            "name": "bTV",
+            "tvg-id": "bTV",
+            "tvg-name": "bTV",
+            "group": "Политематични",
+            "logo": "http://logos.kodibg.org/btv.png"
+        },
+        {
+            "issue-id": "130143",
+            "name": "bTV Action",
+            "tvg-id": "bTVAction",
+            "tvg-name": "bTVAction",
+            "group": "Филмови",
+            "logo": "http://logos.kodibg.org/btvaction.png"
+        },
+        {
+            "issue-id": "130379",
+            "name": "Ring BG",
+            "tvg-id": "RING",
+            "tvg-name": "RING",
+            "group": "Спортни",
+            "logo": "http://logos.kodibg.org/ring.png"
+        },
+        {
+            "issue-id": "130145",
+            "name": "bTV Cinema",
+            "tvg-id": "bTVCinema",
+            "tvg-name": "bTVCinema",
+            "group": "Филмови",
+            "logo": "http://logos.kodibg.org/btvcinema.png"
+        },
+        {
+            "issue-id": "130141",
+            "name": "bTV Comedy",
+            "tvg-id": "bTVComedy",
+            "tvg-name": "bTVComedy",
+            "group": "Филмови",
+            "logo": "http://logos.kodibg.org/btvcomedy.png"
+        },
+        {
+            "issue-id": "147579",
+            "name": "bTV Lady",
+            "tvg-id": "bTVLady",
+            "tvg-name": "bTVLady",
+            "group": "Филмови",
+            "logo": "http://logos.kodibg.org/btvlady.png"
+        },
+        {
+            "issue-id": "1013183",
+            "name": "BiT",
+            "tvg-id": "BiT",
+            "tvg-name": "BiT",
+            "group": "Политематични",
+            "logo": "http://logos.kodibg.org/bit.png"
+        },
+        {
+            "issue-id": "217857",
+            "name": "AXN",
+            "tvg-id": "AXN",
+            "tvg-name": "AXN",
+            "group": "Филмови",
+            "logo": "http://logos.kodibg.org/axn.png"
+        },
+        {
+            "issue-id": "217859",
+            "name": "AXN Black",
+            "tvg-id": "AXNBlack",
+            "tvg-name": "AXNBlack",
+            "group": "Филмови",
+            "logo": "http://logos.kodibg.org/axnblack.png"
+        },
+        {
+            "issue-id": "217861",
+            "name": "AXN White",
+            "tvg-id": "AXNWhite",
+            "tvg-name": "AXNWhite",
+            "group": "Филмови",
+            "logo": "http://logos.kodibg.org/axnwhite.png"
+        },
+        {
+            "issue-id": "217855",
+            "name": "Nickelodeon",
+            "tvg-id": "Nickelodeon",
+            "tvg-name": "Nickelodeon",
+            "group": "Детски",
+            "logo": "http://logos.kodibg.org/nickelodeon.png"
+        },
+        {
+            "issue-id": "217851",
+            "name": "Nickelodeon Junior",
+            "tvg-id": "NickJr",
+            "tvg-name": "NickJr",
+            "group": "Детски",
+            "logo": "http://logos.kodibg.org/nickjr.png"
+        },
+        {
+            "issue-id": "163831",
+            "name": "Евроком Kids",
+            "tvg-id": "EKids",
+            "tvg-name": "EKids",
+            "group": "Детски",
+            "logo": "http://logos.kodibg.org/ekids.png"
+        },
+        {
+            "issue-id": "184343",
+            "name": "Duck TV",
+            "tvg-id": "DuckTV",
+            "tvg-name": "DuckTV",
+            "group": "Детски",
+            "logo": "http://logos.kodibg.org/ducktv.png"
+        },
+        {
+            "issue-id": "184345",
+            "name": "Fix & Foxy",
+            "tvg-id": "FixFoxy",
+            "tvg-name": "FixFoxy",
+            "group": "Детски",
+            "logo": "http://logos.kodibg.org/fixfoxitv.png"
+        },
+        {
+            "issue-id": "184341",
+            "name": "Auto Motor Sport",
+            "tvg-id": "AutoMotorSport",
+            "tvg-name": "AutoMotorSport",
+            "group": "Спортни",
+            "logo": "http://logos.kodibg.org/automotorsport.png"
+        },
+        {
+            "issue-id": "1021865",
+            "name": "Диема Sport",
+            "tvg-id": "DiemaSport",
+            "tvg-name": "DiemaSport",
+            "group": "Спортни",
+            "logo": "http://logos.kodibg.org/diemasport.png"
+        },
+        {
+            "issue-id": "1021866",
+            "name": "Диема Sport 2",
+            "tvg-id": "DiemaSport2",
+            "tvg-name": "DiemaSport2",
+            "group": "Спортни",
+            "logo": "http://logos.kodibg.org/diemasport2.png"
+        },
+        {
+            "issue-id": "1029633",
+            "name": "National Geographic Channel",
+            "tvg-id": "NatGeo",
+            "tvg-name": "NatGeo",
+            "group": "Документални",
+            "logo": "http://logos.kodibg.org/natgeo.png"
+        },
+        {
+            "issue-id": "1029634",
+            "name": "National Geographic Wild",
+            "tvg-id": "NatGeoWild",
+            "tvg-name": "NatGeoWild",
+            "group": "Документални",
+            "logo": "http://logos.kodibg.org/natgeowild.png"
+        },
+        {
+            "issue-id": "1029639",
+            "name": "24kitchen",
+            "tvg-id": "24kitchen",
+            "tvg-name": "24kitchen",
+            "group": "Документални",
+            "logo": "http://logos.kodibg.org/24kitchen.png"
+        },
+        {
+            "issue-id": "130333",
+            "name": "ТВ Европа",
+            "tvg-id": "tveurope",
+            "tvg-name": "tveurope",
+            "group": "Новинарски",
+            "logo": "http://logos.kodibg.org/tveuropa.png"
+        },
+        {
+            "issue-id": "130313",
+            "name": "Bulgaria On Air",
+            "tvg-id": "BulgariaOnAir",
+            "tvg-name": "BulgariaOnAir",
+            "group": "Политематични",
+            "logo": "http://logos.kodibg.org/bgonair.png"
+        },
+        {
+            "issue-id": "130337",
+            "name": "Канал 3",
+            "tvg-id": "Kanal3",
+            "tvg-name": "Kanal3",
+            "group": "Спортни",
+            "logo": "http://logos.kodibg.org/kanal3.png"
+        },
+        {
+            "issue-id": "130363",
+            "name": "Skat",
+            "tvg-id": "Skat",
+            "tvg-name": "Skat",
+            "group": "Политематични",
+            "logo": "http://logos.kodibg.org/skat.png"
+        },
+        {
+            "issue-id": "130351",
+            "name": "Планета",
+            "tvg-id": "Planeta",
+            "tvg-name": "Planeta",
+            "group": "Музикални",
+            "logo": "http://logos.kodibg.org/planetatv.png"
+        },
+        {
+            "issue-id": "1029281",
+            "name": "Планета HD",
+            "tvg-id": "PlanetaHD",
+            "tvg-name": "PlanetaHD",
+            "group": "Музикални",
+            "logo": "http://logos.kodibg.org/planetahd.png"
+        },
+        {
+            "issue-id": "130353",
+            "name": "Планета Фолк",
+            "tvg-id": "PlanetaFolk",
+            "tvg-name": "PlanetaFolk",
+            "group": "Музикални",
+            "logo": "http://logos.kodibg.org/planetafolk.png"
+        },
+        {
+            "issue-id": "130371",
+            "name": "Фен ТВ",
+            "tvg-id": "FENTV",
+            "tvg-name": "FENTV",
+            "group": "Музикални",
+            "logo": "http://logos.kodibg.org/fentv.png"
+        },
+        {
+            "issue-id": "130367",
+            "name": "Тянков Фолк ТВ",
+            "tvg-id": "TiankovFolk",
+            "tvg-name": "TiankovFolk",
+            "group": "Музикални",
+            "logo": "http://logos.kodibg.org/tiankovfolk.png"
+        },
+        {
+            "issue-id": "130365",
+            "name": "Тянков Ориент",
+            "tvg-id": "",
+            "tvg-name": "",
+            "group": "Музикални",
+            "logo": "http://logos.kodibg.org/tiankovorientfolk.png"
+        },
+        {
+            "issue-id": "130321",
+            "name": "Balkanika",
+            "tvg-id": "Balkanika",
+            "tvg-name": "Balkanika",
+            "group": "Музикални",
+            "logo": "http://logos.kodibg.org/balkanika.png"
+        },
+        {
+            "issue-id": "139487",
+            "name": "Родина ТВ",
+            "tvg-id": "Rodina",
+            "tvg-name": "Rodina",
+            "group": "Музикални",
+            "logo": "http://logos.kodibg.org/rodinatv.png"
+        },
+        {
+            "issue-id": "130373",
+            "name": "Фолклор ТВ",
+            "tvg-id": "FolklorTV",
+            "tvg-name": "FolklorTV",
+            "group": "Музикални",
+            "logo": "http://logos.kodibg.org/folklortv.png"
+        },
+        {
+            "issue-id": "1009934",
+            "name": "Фен Фолк",
+            "tvg-id": "FenFolk",
+            "tvg-name": "FenFolk",
+            "group": "Музикални",
+            "logo": "http://logos.kodibg.org/fenfolk.png"
+        },
+        {
+            "issue-id": "1009932",
+            "name": "BG Music Channel",
+            "tvg-id": "BGMusicChannel",
+            "tvg-name": "BGMusicChannel",
+            "group": "Музикални",
+            "logo": "http://logos.kodibg.org/bgmusicchannel.png"
+        },
+        {
+            "issue-id": "134871",
+            "name": "DSTV",
+            "tvg-id": "DSTV",
+            "tvg-name": "DSTV",
+            "group": "Музикални",
+            "logo": "http://logos.kodibg.org/dstv.png"
+        },
+        {
+            "issue-id": "130137",
+            "name": "Box TV",
+            "tvg-id": "BoxTV",
+            "tvg-name": "BoxTV",
+            "group": "Музикални",
+            "logo": "http://logos.kodibg.org/boxtv.png"
+        },
+        {
+            "issue-id": "200461",
+            "name": "Magic ТВ",
+            "tvg-id": "MagicTV",
+            "tvg-name": "MagicTV",
+            "group": "Музикални",
+            "logo": "http://logos.kodibg.org/magictv.png"
+        },
+        {
+            "issue-id": "138067",
+            "name": "Травъл ТВ",
+            "tvg-id": "Travel",
+            "tvg-name": "Travel",
+            "group": "Документални",
+            "logo": "http://logos.kodibg.org/traveltv.png"
+        },
+        {
+            "issue-id": "138063",
+            "name": "Травъл HD",
+            "tvg-id": "TravelHD",
+            "tvg-name": "TravelHD",
+            "group": "Документални",
+            "logo": "http://logos.kodibg.org/travelhd.png"
+        },
+        {
+            "issue-id": "130331",
+            "name": "Евроком",
+            "tvg-id": "Eurocom",
+            "tvg-name": "Eurocom",
+            "group": "Политематични",
+            "logo": "http://logos.kodibg.org/evrokom.png"
+        },
+        {
+            "issue-id": "1009925",
+            "name": "ТВ Варна",
+            "tvg-id": "",
+            "tvg-name": "",
+            "group": "Политематични",
+            "logo": ""
+        },
+        {
+            "issue-id": "141739",
+            "name": "Военен ТВ Канал",
+            "tvg-id": "VTK",
+            "tvg-name": "VTK",
+            "group": "Политематични",
+            "logo": "http://logos.kodibg.org/vtk.png"
+        },
+        {
+            "issue-id": "150137",
+            "name": "БНП ТВ",
+            "tvg-id": "",
+            "tvg-name": "",
+            "group": "Политематични",
+            "logo": "http://logos.kodibg.org/bnptv.png"
+        },
+        {
+            "issue-id": "130375",
+            "name": "ТВ Черно Море",
+            "tvg-id": "ChernoMore",
+            "tvg-name": "ChernoMore",
+            "group": "Политематични",
+            "logo": "http://logos.kodibg.org/chernomore.png"
+        },
+        {
+            "issue-id": "130361",
+            "name": "ПОТВ",
+            "tvg-id": "Trakiq",
+            "tvg-name": "Trakiq",
+            "group": "Новинарски",
+            "logo": "http://logos.kodibg.org/potv.png"
+        },
+        {
+            "issue-id": "1009931",
+            "name": "БХТВ",
+            "tvg-id": "",
+            "tvg-name": "",
+            "group": "",
+            "logo": "http://logos.kodibg.org/bhtv.png"
+        },
+        {
+            "issue-id": "130319",
+            "name": "ТВТ Туризъм",
+            "tvg-id": "TVT",
+            "tvg-name": "TVT",
+            "group": "Документални",
+            "logo": "http://logos.kodibg.org/tvt.png"
+        },
+        {
+            "issue-id": "130315",
+            "name": "TV1",
+            "tvg-id": "TV1",
+            "tvg-name": "TV1",
+            "group": "Политематични",
+            "logo": "http://logos.kodibg.org/tv1.png"
+        },
+        {
+            "issue-id": "1000181",
+            "name": "България 24",
+            "tvg-id": "news",
+            "tvg-name": "news",
+            "group": "Новинарски",
+            "logo": "http://logos.kodibg.org/bulgaria24.png"
+        },
+        {
+            "issue-id": "130329",
+            "name": "Вест ТВ",
+            "tvg-id": "VTV",
+            "tvg-name": "VTV",
+            "group": "Политематични",
+            "logo": "http://logos.kodibg.org/vtv.png"
+        },
+        {
+            "issue-id": "1009930",
+            "name": "Roma TV",
+            "tvg-id": "",
+            "tvg-name": "",
+            "group": "Музикални",
+            "logo": "https://assets.neterra.tv/media/romatv.png"
+        },
+        {
+            "issue-id": "1049509",
+            "name": "bTV HD",
+            "tvg-id": "bTV",
+            "tvg-name": "bTV",
+            "group": "Политематични",
+            "logo": "http://logos.kodibg.org/btv.png"
+        },
+        {
+            "issue-id": "1049510",
+            "name": "bTV Action HD",
+            "tvg-id": "bTVAction",
+            "tvg-name": "bTVAction",
+            "group": "Филмови",
+            "logo": "http://logos.kodibg.org/btvaction.png"
+        }
+    ]
+}
